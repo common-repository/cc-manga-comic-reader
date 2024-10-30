@@ -1,0 +1,56 @@
+/* CC Manga by cuongma111 */
+.single-manga {
+
+}
+
+.single-manga .cc-manga {
+	margin-bottom: 30px;
+}
+
+.single-manga .entry-title {
+	font-weight: bold;
+}
+
+.single-manga .manga-info li {
+	list-style: none;
+}
+
+.single-manga .manga-info li label {
+	display: inline-block;
+	color: #666;
+	font-weight: bold;
+	font-size: 14px;
+	width: 120px;
+}
+
+.single-manga .manga-info li span {
+	color: #666;
+	font-size: 15px;
+}
+
+.single-manga .m-mid {
+	margin: 30px 0;
+}
+
+.single-manga .m-title {
+	border-bottom: 1px solid #ddd;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}
+
+.single-manga .chapter-list ul {
+	margin: 0;
+	padding: 0;
+}
+
+.single-manga .chapter-list ul li {
+	margin-left: 20px;
+}
+
+.single-chapter .image-list {
+	margin: 0 auto;
+}
+
+.wrap-manga.manga-grid .manga-content .entry-title {
+	text-align: center;
+}

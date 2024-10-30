@@ -1,0 +1,451 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CC Manga Comic Reader\n"
+"POT-Creation-Date: 2017-11-02 15:22+0700\n"
+"PO-Revision-Date: 2017-11-02 15:22+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: main.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: helpers/helper.php:50 inc/config/framework.config.php:108
+msgid "Other Name"
+msgstr ""
+
+#: helpers/helper.php:55 inc/config/framework.config.php:113
+msgid "Status"
+msgstr ""
+
+#: helpers/helper.php:71 inc/config/framework.config.php:63
+#: inc/config/framework.config.php:70
+msgid "Category"
+msgstr ""
+
+#: helpers/helper.php:78 inc/config/framework.config.php:64
+#: inc/config/framework.config.php:77
+msgid "Tags"
+msgstr ""
+
+#: helpers/manga.php:18 helpers/manga.php:19 inc/config/framework.config.php:27
+msgid "Manga"
+msgstr ""
+
+#: helpers/manga.php:20
+msgid "Search Manga"
+msgstr ""
+
+#: helpers/manga.php:21
+msgid "All Manga"
+msgstr ""
+
+#: helpers/manga.php:22
+msgid "Edit Manga"
+msgstr ""
+
+#: helpers/manga.php:23
+msgid "Update Manga"
+msgstr ""
+
+#: helpers/manga.php:24
+msgid "Add New Manga"
+msgstr ""
+
+#: helpers/manga.php:50 helpers/manga.php:51 inc/config/metabox.config.php:48
+#: inc/config/metabox.config.php:56
+msgid "Chapter"
+msgstr ""
+
+#: helpers/manga.php:52
+msgid "Search Chapter"
+msgstr ""
+
+#: helpers/manga.php:53
+msgid "All Chapter"
+msgstr ""
+
+#: helpers/manga.php:54
+msgid "Edit Chapter"
+msgstr ""
+
+#: helpers/manga.php:55
+msgid "Update Chapter"
+msgstr ""
+
+#: helpers/manga.php:56 inc/config/metabox.config.php:49
+msgid "Add New Chapter"
+msgstr ""
+
+#: helpers/manga.php:95
+msgid "Search "
+msgstr ""
+
+#: helpers/manga.php:96
+msgid "All "
+msgstr ""
+
+#: helpers/manga.php:97
+msgid "Edit "
+msgstr ""
+
+#: helpers/manga.php:98
+msgid "Update "
+msgstr ""
+
+#: helpers/manga.php:99
+msgid "Add "
+msgstr ""
+
+#: helpers/manga.php:100
+msgid "New "
+msgstr ""
+
+#: inc/config/framework.config.php:14
+msgid "Settings"
+msgstr ""
+
+#: inc/config/framework.config.php:18
+msgid "CC Manga Setting"
+msgstr ""
+
+#: inc/config/framework.config.php:32
+msgid "Custom Taxonomy"
+msgstr ""
+
+#: inc/config/framework.config.php:33
+msgid "Add New Taxonomy"
+msgstr ""
+
+#: inc/config/framework.config.php:35
+msgid "New Taxonomy"
+msgstr ""
+
+#: inc/config/framework.config.php:40 inc/config/framework.config.php:96
+msgid "Name"
+msgstr ""
+
+#: inc/config/framework.config.php:41 inc/config/framework.config.php:54
+#: inc/config/framework.config.php:103
+msgid "This is best if you use english"
+msgstr ""
+
+#: inc/config/framework.config.php:47
+msgid "Title"
+msgstr ""
+
+#: inc/config/framework.config.php:53 inc/config/framework.config.php:102
+msgid "Slug"
+msgstr ""
+
+#: inc/config/framework.config.php:61
+msgid "Type"
+msgstr ""
+
+#: inc/config/framework.config.php:88
+msgid "Custom Fields"
+msgstr ""
+
+#: inc/config/framework.config.php:89
+msgid "Add New Field"
+msgstr ""
+
+#: inc/config/framework.config.php:91
+msgid "New Field"
+msgstr ""
+
+#: inc/config/framework.config.php:123
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/config/framework.config.php:129
+msgid "Layout"
+msgstr ""
+
+#: inc/config/framework.config.php:131
+msgid "List"
+msgstr ""
+
+#: inc/config/framework.config.php:132
+msgid "Grid"
+msgstr ""
+
+#: inc/config/framework.config.php:140
+msgid "Columns"
+msgstr ""
+
+#: inc/config/framework.config.php:142 inc/config/framework.config.php:143
+msgid "2 Columns"
+msgstr ""
+
+#: inc/config/framework.config.php:144
+msgid "4 Columns"
+msgstr ""
+
+#: inc/config/framework.config.php:145
+msgid "6 Columns"
+msgstr ""
+
+#: inc/config/framework.config.php:154
+msgid "Number Manga"
+msgstr ""
+
+#: inc/config/metabox.config.php:51
+msgid "New Chapter"
+msgstr ""
+
+#: inc/config/metabox.config.php:66 inc/config/metabox.config.php:92
+msgid "Details"
+msgstr ""
+
+#: inc/config/metabox.config.php:103
+msgid "Select Manga"
+msgstr ""
+
+#: inc/config/metabox.config.php:110
+msgid "List image"
+msgstr ""
+
+#: inc/config/metabox.config.php:111
+msgid "Add New Image"
+msgstr ""
+
+#: inc/config/metabox.config.php:113
+msgid "New Image"
+msgstr ""
+
+#: inc/config/metabox.config.php:118
+msgid "Link"
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:175
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:180
+msgid "Default options restored."
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:199
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:365
+msgid "Settings saved."
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:367
+msgid "Save"
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:367
+msgid "Saving..."
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:368
+msgid "Restore"
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:371
+#: lib/codestar-framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: lib/codestar-framework/classes/framework.class.php:375
+msgid "show all options"
+msgstr ""
+
+#: lib/codestar-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: lib/codestar-framework/classes/options.class.php:131
+#: lib/codestar-framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: lib/codestar-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: lib/codestar-framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: lib/codestar-framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: lib/codestar-framework/classes/shortcode.class.php:82
+#: lib/codestar-framework/classes/shortcode.class.php:90
+#: lib/codestar-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: lib/codestar-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: lib/codestar-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:34
+#: lib/codestar-framework/fields/background/background.php:35
+#: lib/codestar-framework/fields/upload/upload.php:23
+#: lib/codestar-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: lib/codestar-framework/fields/background/background.php:36
+#: lib/codestar-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: lib/codestar-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: lib/codestar-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: lib/codestar-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: lib/codestar-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: lib/codestar-framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: lib/codestar-framework/fields/group/group.php:45
+#: lib/codestar-framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: lib/codestar-framework/fields/icon/icon.php:25
+#: lib/codestar-framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: lib/codestar-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: lib/codestar-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: lib/codestar-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: lib/codestar-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: lib/codestar-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: lib/codestar-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: lib/codestar-framework/fields/typography/typography.php:107
+#: lib/codestar-framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: lib/codestar-framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: lib/codestar-framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: lib/codestar-framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: lib/codestar-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: templates/content-manga.php:62
+msgid "Description"
+msgstr ""
+
+#: templates/content-manga.php:63
+msgid "Read More"
+msgstr ""
+
+#: templates/content-manga.php:68
+msgid "Chapter List"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "CC Manga Comic Reader"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://chuyencode.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin for build manga, comic site"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "vagrant"
+msgstr ""
